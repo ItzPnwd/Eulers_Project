@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=isPrime
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ isPrime\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=n
+comment1.target=boolean\ isPrime2(int)
+comment1.text=\r\n\ A\ more\ efficient\ way\ to\ determine\ if\ an\ int\ is\ prime.\r\n\ \r\n\ @param\ n\ \ \ \ \ number\ to\ test\r\n\ @return\ \ \ \ \ \ true\ if\ number\ is\ prime,\ false\ otherwise\r\n
+comment2.params=n
+comment2.target=int\ isPrime(int)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ isPrime\r\n
+numComments=3
